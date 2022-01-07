@@ -1,6 +1,6 @@
 # terraform-libvirt-lfs201
 
-A small project using [Terraform](https://www.terraform.io/) to deploy a [GitLab-CE](https://gitlab.com/rluna-gitlab/gitlab-ce) instance on [KVM](https://wikipedia.org/wiki/KVM).
+A small project using [Terraform](https://www.terraform.io/) to deploy a ubuntu, fedora, and centos instances on [KVM](https://wikipedia.org/wiki/KVM) for training purposes.
 
 ## Install the necessary components and dependencies
 
