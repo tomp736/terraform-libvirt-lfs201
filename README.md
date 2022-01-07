@@ -59,11 +59,3 @@ You can destroy your Terraform infrastructure
 ```bash
 terraform destroy
 ```
-
-## Disclaimer
-
-The gitlab instance data will be destroyed every time the VM is destroyed - you will need to come up with a backup/restore solution if you want data to persist.
-
-### Gitlab Docs
-
-[Backup and Restore Gitlab](https://docs.gitlab.com/ee/raketasks/backup_restore.html)
